@@ -51,4 +51,4 @@ Welcome to my Github page! I am Henry!
 <br />
 
 
-<img align="left" alt="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryBao91" width="40%" height="auto" />
+<img align="left" alt="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryBao91&theme=tokyonight" width="40%" height="auto" />
