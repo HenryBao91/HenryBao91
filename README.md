@@ -29,17 +29,9 @@ Welcome to my Github page! I am Henry!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/druidio/druidio-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
