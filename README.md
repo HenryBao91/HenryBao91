@@ -16,7 +16,6 @@ Welcome to my Github page! I am Henry!
 #### 🌱 Things I am currently working on: 
 - Machine learning system
 - Recommend System: Recall/Rank
-- AIGC: LLMs. Stable-Diffusion
 - BigData: Spark/Flink
 
 
